@@ -1,2 +1,2 @@
 # Hello-world
-# Glad to start using GitHub today!
+# Glad to join GitHub today!
